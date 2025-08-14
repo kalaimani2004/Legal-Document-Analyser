@@ -107,18 +107,3 @@ This tool provides **informational support only**. It is **not a substitute** fo
 
 ---
 
-## 🙋‍♀️ Author
-
-**Dhivya**
-Front-end developer & ML enthusiast
-📧 [LinkedIn](https://www.linkedin.com/in/dhivya776)
-
----
-
-## ⭐ Star this repo
-
-If you found this helpful, don’t forget to star ⭐ the repository!
-
-```
-
----
